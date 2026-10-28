@@ -20,8 +20,8 @@ Software Engineer at **Grupo GPS** and founder of **Division Dev**, based in Rio
 
 <div align="center">
 
-<a href="https://divisiondev.com.br"><img src="assets/btn-division-dev.svg" alt="Division Dev" width="410"/></a>
-<a href="https://divisionflow.com"><img src="assets/btn-division-flow.svg" alt="Division Flow" width="410"/></a>
+<a href="https://divisiondev.com.br"><img src="assets/btn-dev-v2.svg" alt="Division Dev" width="410"/></a>
+<a href="https://divisionflow.com"><img src="assets/btn-flow-v2.svg" alt="Division Flow" width="410"/></a>
 
 </div>
 
