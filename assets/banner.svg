@@ -35,7 +35,7 @@
     <path d="M150 70 L163 130 L150 222 L137 130 Z"/>
   </g>
   <!-- text -->
-  <text x="370" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="6" fill="#ffffff">LEONARDO LOPES</text>
-  <rect x="372" y="160" width="120" height="5" fill="#1e90ff"/>
-  <text x="372" y="205" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" letter-spacing="4" fill="#5cc8ff">FULL STACK DEVELOPER  ·  PHP  ·  LARAVEL  ·  NODE  ·  BUN</text>
+  <text x="370" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff" textLength="760" lengthAdjust="spacingAndGlyphs">LEONARDO LOPES</text>
+  <rect x="372" y="160" width="140" height="5" fill="#1e90ff"/>
+  <text x="372" y="205" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#5cc8ff" textLength="740" lengthAdjust="spacingAndGlyphs">FULL STACK DEVELOPER  ·  PHP  ·  LARAVEL  ·  NODE  ·  BUN</text>
 </svg>
