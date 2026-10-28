@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="assets/heatmap.svg" alt="GitHub contribution heatmap" width="850"/>
+<img src="assets/heatmap-v2.svg" alt="GitHub contribution heatmap" width="850"/>
 
 </div>
 
