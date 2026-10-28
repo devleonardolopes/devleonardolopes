@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="assets/banner-v4.svg" alt="Leonardo Lopes - Full Stack Developer" width="850"/>
+<img src="assets/banner-v5.svg" alt="Leonardo Lopes - Software Engineer" width="850"/>
 
 </div>
 
 <img src="assets/h-about.svg" alt="About" width="850"/>
 
-Full Stack Developer at **Grupo GPS** and founder of **Division Dev**, based in Rio Grande do Sul, Brazil. I build and maintain web systems end to end, with a focus on PHP/Laravel and TypeScript backends running on Node.js and Bun.
+Software Engineer at **Grupo GPS** and founder of **Division Dev**, based in Rio Grande do Sul, Brazil. I build and maintain web systems end to end, working mainly with PHP/Laravel, TypeScript and Python.
 
 <img src="assets/h-stack.svg" alt="Stack" width="850"/>
 
 <div align="center">
 
-<img src="assets/stack.svg" alt="PHP, Laravel, TypeScript, Node.js, Bun, Java" width="850"/>
+<img src="assets/stack.svg" alt="PHP, Laravel, TypeScript, Python, Bun, Java" width="850"/>
 
 </div>
 
@@ -20,9 +20,8 @@ Full Stack Developer at **Grupo GPS** and founder of **Division Dev**, based in 
 
 <div align="center">
 
-<a href="https://divisiondev.com.br"><img src="assets/btn-division-dev.svg" alt="Division Dev" width="270"/></a>
-<a href="https://divisionflow.com"><img src="assets/btn-division-flow.svg" alt="Division Flow" width="270"/></a>
-<a href="https://devleonardo.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" width="270"/></a>
+<a href="https://divisiondev.com.br"><img src="assets/btn-division-dev.svg" alt="Division Dev" width="410"/></a>
+<a href="https://divisionflow.com"><img src="assets/btn-division-flow.svg" alt="Division Flow" width="410"/></a>
 
 </div>
 

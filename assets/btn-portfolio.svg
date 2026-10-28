@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 64">
-  <defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a2a55"/><stop offset="1" stop-color="#050a14"/></linearGradient></defs>
-  <rect x="1" y="1" width="268" height="62" rx="12" fill="url(#b)" stroke="#1e90ff" stroke-width="1.5"/>
-  <text x="20" y="28" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="#ffffff">Portfolio</text>
-  <text x="20" y="48" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#5cc8ff">devleonardo.com</text>
-  <path d="M230 24 L246 32 L230 40 L235 32 Z" fill="#1e90ff"/>
-</svg>
