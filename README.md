@@ -4,10 +4,6 @@
 
 </div>
 
-<img src="assets/h-about.svg" alt="About" width="850"/>
-
-Software Engineer at **Grupo GPS** and founder of **Division Dev**, based in Rio Grande do Sul, Brazil. I build and maintain web systems end to end, working mainly with PHP/Laravel, TypeScript and Python.
-
 <img src="assets/h-stack.svg" alt="Stack" width="850"/>
 
 <div align="center">
@@ -25,13 +21,13 @@ Software Engineer at **Grupo GPS** and founder of **Division Dev**, based in Rio
 
 </div>
 
-<img src="assets/h-featured.svg" alt="Featured" width="850"/>
+<img src="assets/h-activity.svg" alt="Activity" width="850"/>
 
-| Project | Stack | What it is |
-| :-- | :-- | :-- |
-| [**nexo-assist**](https://github.com/devleonardolopes/nexo-assist) | TypeScript | Assistant built with TypeScript |
-| [**rdb2026-bun**](https://github.com/devleonardolopes/devleonardolopes-rdb2026-bun) | TypeScript, Bun | My entry for Rinha de Backend 2026 |
-| [**crm-division**](https://github.com/devleonardolopes/crm-division) | Laravel, Blade | CRM web application |
+<div align="center">
+
+<img src="assets/heatmap.svg" alt="GitHub contribution heatmap" width="850"/>
+
+</div>
 
 <div align="center">
 
