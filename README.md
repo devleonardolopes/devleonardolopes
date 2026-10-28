@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Leonardo Lopes - Full Stack Developer" width="100%"/>
+<img src="assets/banner-v2.svg" alt="Leonardo Lopes - Full Stack Developer" width="850"/>
 
 <br/>
 
