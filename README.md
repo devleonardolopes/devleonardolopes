@@ -21,14 +21,6 @@
 
 </div>
 
-<img src="assets/h-activity.svg" alt="Activity" width="850"/>
-
-<div align="center">
-
-<img src="assets/heatmap-v2.svg" alt="GitHub contribution heatmap" width="850"/>
-
-</div>
-
 <div align="center">
 
 *"The night is darkest just before the dawn."*
